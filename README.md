@@ -26,26 +26,21 @@
 ## 📚 Sobre mim:
 🎓 Me chamo Gab, sou estudante do Sesi Senai, fazendo o ensino médio integrado com Desenvolvimento de sistemas!
 
-## 📈 My Statistics
+## 📈 Minhas Estatísticas:
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoxn&show_icons=true&theme=radical" alt="Matheus Maia Alvarez github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxn&layout=compact&theme=radical" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabDevBS&show_icons=true&theme=radical" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevBS&layout=compact&theme=radical" />
 </div>
 
 ---
 
-## 📬 Contact Me
-📧 **Email:** [joaoxn@outlook.com](mailto:joaoxn@outlook.com)  
-🌐 **LinkedIn:** [João Victor de Souza Olivo](https://www.linkedin.com/in/joaoxn/)  
-
-
-Looking for a greater technological future ☕
-
+## 📬 Entre em Contato:
+📧 **Email:** [gabrielbitsousa19@gmail.com](mailto:gabrielbitsousa19@gmail.com)
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoxn/joaoxn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoxn/joaoxn/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoxn/joaoxn/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3d8e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
