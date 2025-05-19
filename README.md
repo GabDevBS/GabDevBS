@@ -16,24 +16,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
-## Currently learning
+## Estou aprendendo:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 
-## 📚 About me
-🎓 I am a passionate software developer actively exploring the world of technology. Completed Professionalizing Fullstack Web Development course, Studying Systems Development at Sesi, SENAI.
-
-
-## 📑 Projects
-- [Melodify (FrontEnd)](https://github.com/joaoxn/melodify)
-- [Melodify (BackEnd)](https://github.com/joaoxn/melodify-backend)
-- [TrainSys](https://github.com/joaoxn/TrainSys)
-- [LabPCP (BackEnd)](https://github.com/joaoxn/labpcp-backend)
-
+## 📚 Sobre mim:
+🎓 Me chamo Gab, sou estudante do Sesi Senai, fazendo o ensino médio integrado com Desenvolvimento de sistemas!
 
 ## 📈 My Statistics
 
